@@ -11,4 +11,5 @@ How to run the code?
 3. Change this path
    local_zip = 'drive/MyDrive/Dataset/Dataset_Fix/job-recommendation.zip'
    into your google drive path
-4. Run the code step by step    
+4. Run the code step by step
+5. I suggest you to run it in the Google Collab or Jupyter Notebook 
