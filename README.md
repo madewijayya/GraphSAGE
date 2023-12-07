@@ -9,7 +9,9 @@ How to run the code?
 1. After successfully downloading the dataset you need to upload or manually copy the code to your computer or Google Colab.
 2. To make it easier, put the dataset into your Google Drive
 3. Change this path
+   
    local_zip = 'drive/MyDrive/Dataset/Dataset_Fix/job-recommendation.zip'
+   
    into your google drive path
-4. Run the code step by step
-5. I suggest you to run it in the Google Collab or Jupyter Notebook 
+5. Run the code step by step
+6. I suggest you to run it in the Google Collab or Jupyter Notebook 
