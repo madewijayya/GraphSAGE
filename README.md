@@ -10,9 +10,14 @@ Choose the main file which is "GNN_GraphSAGE.py"
 1. After successfully downloading the dataset you need to upload or manually copy the code to your computer or Google Colab.
 2. To make it easier, put the dataset into your Google Drive
 3. Change this path
+   
    ```
    local_zip = 'drive/MyDrive/Dataset/Dataset_Fix/job-recommendation.zip'
    ```
    into your google drive path
 5. Run the code step by step
-6. I suggest you to run it in the Google Collab or Jupyter Notebook 
+6. I suggest you to run it in the Google Collab or Jupyter Notebook
+
+Note: 
+The cell maybe run with too long runtime or execution time. If it happend, you can reduce or minimize the user value or you can use your local code editor (Sublime, Vscode, or Jupyter Notebook)
+
