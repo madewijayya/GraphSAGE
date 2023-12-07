@@ -6,7 +6,7 @@ https://www.kaggle.com/c/job-recommendation/data
 
 How to run the code?
 
-Choose the main file which is "GNN_GraphSAGE.py"
+Choose the main file which is "SAGE_recommendation.py"
 1. After successfully downloading the dataset you need to upload or manually copy the code to your computer or Google Colab.
 2. To make it easier, put the dataset into your Google Drive
 3. Change this path
